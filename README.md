@@ -1,6 +1,6 @@
 # security-client-exercise
-For ZTM course - Security
+Security
 
-Run in conjunction with security-server-exercise repo :)
+Run in conjunction with security-server repo :)
 
 # security-client
